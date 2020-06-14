@@ -19,6 +19,4 @@ if you are using material UI elements like Card and form control, it is importan
 npm install --save chart.js
 for the chartjs-2 to work, install above dependency
 
-To do:
-optimize cards display
-map over , 3 objects
+
